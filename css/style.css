@@ -22,3 +22,10 @@ button a:hover{
 .list-group-item{
 	background: green;
 }
+.carousel-caption.d-none.d-md-block{
+	padding-bottom: 200px;
+
+}
+.item h1{
+	font-size: 80px;
+}
