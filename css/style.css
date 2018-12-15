@@ -29,3 +29,43 @@ button a:hover{
 .item h1{
 	font-size: 80px;
 }
+
+
+
+
+/*===============*/
+#miniSlider .carousel {
+    position: relative;
+}
+
+#miniSlider .controllers {
+    position: absolute;
+    top: 50px;
+}
+
+#miniSlider .carousel-caption {
+left: 20%;
+right: 20%;
+padding-bottom: 30px;
+}
+
+#miniSlider .carousel-control.left, 
+.carousel-control.right {
+    background-image: none;
+}
+
+#miniSlider .carousel-caption {
+position: relative;
+left: 0;
+right: 0;
+bottom: 0;
+z-index: 10;
+padding-top: 0;
+padding-bottom: 0;
+color: #000;
+text-align: center;
+text-shadow: none;
+/*background: brown;*/
+/*text-shadow: 0 1px 2px rgba(0,0,0,.6);*/
+}
+
