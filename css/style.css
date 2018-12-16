@@ -52,6 +52,7 @@ p{font-size: 20px;}
 }
 
 
+
 /*========= minislider ============*/
 
 
@@ -96,9 +97,6 @@ text-shadow: none;
 .minislider #carousel-caption{
 	margin-top: -15px;
 }
-<<<<<<< HEAD
-
-
 object{
 	width: 1050%;
 }
@@ -111,11 +109,12 @@ object{
 }
 
 
-=======
 #Reportage{
 	margin-left: 35px;
 }
 #report{
 	margin-left: 20px;
 }
->>>>>>> 19ad0b86223d0a8b6f37250404946866eabcbe96
+#nlink:hover{
+	color:red;
+}
