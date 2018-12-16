@@ -114,7 +114,6 @@ object{
 }
 #report{
 	margin-left: 20px;
+	padding-bottom: 30px;
 }
-#nlink:hover{
-	color:red;
-}
+
