@@ -55,6 +55,7 @@ p{font-size: 20px;}
 /*===============*/
 #miniSlider .carousel {
     position: relative;
+    min-height: 343px;
 }
 
 #miniSlider .controllers {
